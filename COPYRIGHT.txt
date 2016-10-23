@@ -1,0 +1,5 @@
+QtNinePatch, 9-patch image renderer for Qt
+Copyright (C) 2015-2016 Shinichi Fuchita
+web: http://www.soramimi.jp/
+mail: fi7s-fct@asahi-net.or.jp
+twitter: @soramimi_jp
